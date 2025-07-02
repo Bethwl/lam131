@@ -1,0 +1,2 @@
+nexus-network register-node 
+nexus-network start --node-id 7387905
